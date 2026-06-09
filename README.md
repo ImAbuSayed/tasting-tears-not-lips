@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tasting-tears-not-lips/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tasting Tears Not Lips](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tasting-tears-not-lips/) |
+| **Get License** | [Obtain a Music License for Tasting Tears Not Lips](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tasting-tears-not-lips/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7a4d77a92c027ffc3c228251770b0718e6472ba36ad79b1b013ada7630b4e39f` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
